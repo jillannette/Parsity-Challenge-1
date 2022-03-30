@@ -5,4 +5,3 @@ function findSum () {
     sum = numbers.reduce((acc, number) => acc + number);
   return sum;
 };
-console.log(findSum());
